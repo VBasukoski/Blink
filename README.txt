@@ -1,1 +1,2 @@
-"Random text" 
+"Random text"
+New line added
